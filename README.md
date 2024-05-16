@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Trollkopf&theme=oldie&column=4&row=2&margin-w=15&margin-h=15" alt="trophy">
 </p>
+
 # Hola, soy Max Serratosa 👋
 
 ## Acerca de mí
