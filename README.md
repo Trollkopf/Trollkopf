@@ -21,7 +21,7 @@
 ![Angular](https://img.shields.io/badge/Angular-12-dd0031)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Git](https://img.shields.io/badge/Git-2.32-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC)
 
