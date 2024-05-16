@@ -6,8 +6,9 @@
 </p>
 
 # 👋 Hola, soy Max Serratosa
+### Languages you can communicate with me
 
-![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-red)![🇬🇧](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue) ![🇩🇪](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-black)
+![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-red) ![🇬🇧](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue) ![🇩🇪](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-black)
 
 
 ## 🎯 Tecnologías que utilizo / Technologies I use / Verwendete Technologien 
