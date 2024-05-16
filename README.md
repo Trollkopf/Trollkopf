@@ -7,7 +7,7 @@
 
 # 👋 Hola, soy Max Serratosa
 
-[![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-red)](##acerca-de-mí) [![🇬🇧](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue)](##about-me) [![🇩🇪](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-black)](##über-mich)
+![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-red)![🇬🇧](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue) ![🇩🇪](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-black)
 
 
 ## 🎯 Tecnologías que utilizo / Technologies I use / Verwendete Technologien 
@@ -31,7 +31,6 @@
 ## 🔗 Conéctate conmigo
 ¡Me encantaría conectarme contigo en [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/)!
 
-[![top](https://img.shields.io/badge/Volver%20arriba-green)](#hola-soy-max-serratosa-)
 ***
 
 ## 😸 About me
@@ -41,7 +40,6 @@ Greetings! I'm Maximiliano, a passionate Full Stack developer with experience in
 ## 🔗 Connect with me
 I'd love to connect with you on [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/)!
 
-[![top](https://img.shields.io/badge/Back%20to%20top-green)](#hola-soy-max-serratosa-)
 ***
 ## 😸 Über mich
 
@@ -50,4 +48,3 @@ Grüße! Ich bin Maximiliano, ein leidenschaftlicher Full-Stack-Entwickler mit E
 ## 🔗 Verbinde dich mit mir
 Ich würde mich freuen, mich mit dir auf [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/) zu vernetzen!
 
-[![top](https://img.shields.io/badge/Zurück%20nach%20oben-green)](#hola-soy-max-serratosa-)
