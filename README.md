@@ -28,10 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</p>
-<p><img align="center"
+</p><br/>
+<div align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=en&layout=compact"
-        alt="Trollkopf" /></p>
+        alt="Trollkopf" /></div>
 
 ## 😸 Acerca de mí
 
