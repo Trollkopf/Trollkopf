@@ -14,9 +14,8 @@
 ## 🎯 Tecnologías que utilizo / Technologies I use / Verwendete Technologien 
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> &nbsp;
+    [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> &nbsp;
