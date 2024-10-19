@@ -47,9 +47,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p><br/>
 
-<div align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=en&layout=compact"
+<div align="left"><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=es&layout=compact"
         alt="Trollkopf" /></div>
+<div align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Trollkopf&show_icons=true&locale=es" /></div>
 
 ## 😸 Acerca de mí
 
