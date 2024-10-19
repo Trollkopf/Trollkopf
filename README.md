@@ -50,7 +50,6 @@
 <div align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=es&layout=compact"
         alt="Trollkopf" /></div>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Trollkopf&show_icons=true&locale=es" /></div>
 
 ## 😸 Acerca de mí
 
