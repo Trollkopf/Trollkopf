@@ -1,18 +1,22 @@
-
 # 👋 Hola, soy Max Serratosa
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Trollkopf&column=4&row=2&margin-w=15&margin-h=15" alt="trophy">
 </p>
 
-### Languages you can communicate with me
+### 🌍 Languages you can communicate with me
 
-![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-red) ![🇬🇧](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7-English-blue) ![🇩🇪](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-Deutsch-black)
+![🇪🇸 Español](https://img.shields.io/badge/Espa%C3%B1ol-red) ![🇬🇧 English](https://img.shields.io/badge/English-blue) ![🇩🇪 Deutsch](https://img.shields.io/badge/Deutsch-black)
 
+---
 
 ## 🎯 Tecnologías que utilizo / Technologies I use / Verwendete Technologien 
 
 <p align="center">
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a> &nbsp;
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -45,32 +49,53 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p><br/>
+</p>
 
 <div align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=es&layout=compact"
         alt="Trollkopf" /></div>
 
-## 😸 Acerca de mí
+---
 
-¡Saludos! Soy Maximiliano, un apasionado desarrollador Full Stack con experiencia en una amplia gama de tecnologías. Mi fascinación por la creación de aplicaciones web robustas y eficientes me ha llevado a explorar y dominar diversas herramientas y lenguajes de programación. Desde la estructura del backend hasta la elegancia del frontend, me esfuerzo por crear soluciones que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar.
+## 😸 Acerca de mí / About me / Über mich
 
-## 🔗 Conéctate conmigo
-¡Me encantaría conectarme contigo en [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/)!
+Soy Maximiliano, desarrollador Full Stack con experiencia en una amplia variedad de tecnologías. Me apasiona construir soluciones potentes, funcionales y visualmente atractivas desde el backend hasta el frontend.
 
-***
+Greetings! I'm Maximiliano, a passionate Full Stack developer with experience in many technologies. I love building powerful, elegant, and user-friendly web and mobile applications.
 
-## 😸 About me
+Ich bin Maximiliano, ein leidenschaftlicher Full-Stack-Entwickler mit Erfahrung in vielen Technologien. Ich entwickle gerne leistungsstarke und benutzerfreundliche Anwendungen vom Backend bis zum Frontend.
 
-Greetings! I'm Maximiliano, a passionate Full Stack developer with experience in a wide range of technologies. My fascination with creating robust and efficient web applications has led me to explore and master various programming tools and languages. From backend structure to frontend elegance, I strive to create solutions that are not only functional but also aesthetically pleasing and easy to use.
+---
 
-## 🔗 Connect with me
-I'd love to connect with you on [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/)!
+## 🔗 Conecta conmigo / Connect with me / Kontakt
 
-***
-## 😸 Über mich
+<p align="center">
+  <a href="https://maxserratosa.es" target="_blank">
+    <img src="https://img.shields.io/badge/Web-maxserratosa.es-green?style=for-the-badge&logo=firefox-browser" />
+  </a>
+  <a href="mailto:max.serratosa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-max.serratosa@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Maximiliano-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-Grüße! Ich bin Maximiliano, ein leidenschaftlicher Full-Stack-Entwickler mit Erfahrung in einer Vielzahl von Technologien. Meine Faszination für die Entwicklung robuster und effizienter Webanwendungen hat mich dazu gebracht, verschiedene Programmierwerkzeuge und -sprachen zu erkunden und zu beherrschen. Vom Backend-Aufbau bis zur Eleganz des Frontends bemühe ich mich, Lösungen zu schaffen, die nicht nur funktional, sondern auch ästhetisch ansprechend und benutzerfreundlich sind.
+---
 
-## 🔗 Verbinde dich mit mir
-Ich würde mich freuen, mich mit dir auf [LinkedIn](https://www.linkedin.com/in/maximiliano-serratosa-obladen-full-stack-developer/) zu vernetzen!
+## 📌 Proyectos destacados / Featured Projects / Projekte
+
+- 🎨 [**RenderHub**](https://github.com/Trollkopf/RenderHub): Plataforma de gestión de trabajos creativos que facilita la comunicación entre clientes y administradores (renderistas, diseñadores, etc.). Permite solicitar trabajos, hacer seguimiento, gestionar modificaciones y recibir notificaciones de entregas y eventos importantes.
+- ⚔️ [**Luz Errante**](https://github.com/Trollkopf/Luz-Errante): Juego de plataformas en 2D con acción y estética oscura. Controla a un caballero mediante gestos para moverte, rodar y atacar mientras recoges orbes y esquivas trampas en un mundo devorado por la oscuridad.
+- 🏠 [**Domatia**](https://github.com/Trollkopf/Domatia): CMS inmobiliario profesional desarrollado en Laravel, orientado a la gestión de propiedades, promociones y subzonas. Soporta contenido multilingüe, galerías, formularios avanzados y control desde backoffice.
+- 🌱 [**EcoTracker**](https://github.com/Trollkopf/ecotracker): App Android para registrar acciones ecológicas diarias y acumular puntos que pueden canjearse por contenido educativo sobre animales en peligro de extinción. Gamificación con conciencia ambiental.
+- ⏱️ [**TickTrack**](https://github.com/Trollkopf/TickTrack): Plataforma de seguimiento de asistencia y tiempos de trabajo. Permite registrar jornadas, gestionar descansos y administrar vacaciones de forma sencilla y eficiente.
+- 🏖️ [**BlueWaveBooking**](https://github.com/Trollkopf/BlueWaveBooking): Sistema de reservas online para alquiler de hamacas en la playa. Intuitivo, rápido y diseñado para funcionar desde móvil o escritorio con gestión administrativa completa.
+- 😺 [**Emojournal**](https://github.com/Trollkopf/Emojournal): App móvil para registrar tu estado de ánimo diario usando iconos de Material Design. Muestra gráficas de evolución emocional por días, semanas o meses de forma visual y minimalista.
+
+---
+
+<div align="center"><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Trollkopf&show_icons=true&locale=es&layout=compact"
+        alt="Trollkopf" /></div>
+
