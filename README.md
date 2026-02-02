@@ -1,12 +1,9 @@
 # 👋 Hola, soy Max Serratosa
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trollkopf&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=Trollkopf&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trollkopf&theme=github-dark" />
+![GitHub followers](https://img.shields.io/github/followers/Trollkopf?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Trollkopf?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Trollkopf)
 </p>
 
 ### 🌍 Languages you can communicate with me
