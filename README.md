@@ -1,19 +1,45 @@
-# 👋 Hola, soy Max Serratosa
+# 👋 Hi, I'm Max Serratosa
 
-Desarrollador **Full Stack** con experiencia en aplicaciones web y móviles.  
-Me centro en crear software **sólido, mantenible y bien diseñado**, desde el backend hasta el frontend.
+Full Stack Developer focused on building **robust, maintainable and scalable web and mobile applications**.  
+Experienced in **B2B platforms**, **backoffice systems**, and **product-oriented development**.
 
----
-
-## 🌍 Idiomas
-![🇪🇸 Español](https://img.shields.io/badge/Espa%C3%B1ol-red)
-![🇬🇧 English](https://img.shields.io/badge/English-blue)
-![🇩🇪 Deutsch](https://img.shields.io/badge/Deutsch-black)
+I’m open to **professional opportunities and technical collaborations**.
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🧩 What I Do
 
+- Design and develop full-stack applications end-to-end  
+- Build scalable backend systems and clean APIs  
+- Create maintainable frontends with modern frameworks  
+- Develop internal tools, admin panels and business platforms  
+- Collaborate with designers, product owners and other developers
+
+---
+
+## 🛠️ Core Tech Stack
+
+**Backend**
+- PHP (Laravel)
+- REST APIs
+- MySQL, MongoDB
+
+**Frontend**
+- JavaScript / TypeScript
+- Vue.js, Angular
+- Tailwind CSS, Bootstrap
+
+**Mobile**
+- Android (Kotlin)
+- Flutter
+- Swift
+
+**Other**
+- Git
+- Docker
+- Modular and component-based architectures
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" />
@@ -36,48 +62,47 @@ Me centro en crear software **sólido, mantenible y bien diseñado**, desde el b
 
 ---
 
-## 😸 Sobre mí
+## 📌 Selected Projects
 
-Soy desarrollador Full Stack con experiencia en proyectos **B2B**, **plataformas de gestión**, **backoffices** y **apps móviles**.
+- 🎨 **[RenderHub](https://github.com/Trollkopf/RenderHub)**  
+  Platform for managing creative work and client–admin communication, including job requests, progress tracking and notifications.
 
-Me interesa especialmente:
-- Arquitectura de software
-- Sistemas escalables y mantenibles
-- UX funcional y clara
-- Automatización y herramientas internas
+- 🏠 **[Domatia](https://github.com/Trollkopf/Domatia)**  
+  Professional real estate CMS built with Laravel, featuring multilingual content, advanced backoffice management and flexible data models.
 
----
+- ⏱️ **[TickTrack](https://github.com/Trollkopf/TickTrack)**  
+  Time tracking system for work hours, breaks and vacation management, designed for clarity and ease of use.
 
-## 📌 Proyectos destacados
+- 🌱 **[EcoTracker](https://github.com/Trollkopf/ecotracker)**  
+  Android application combining eco-friendly habit tracking with gamification and educational content.
 
-- 🎨 **RenderHub**  
-  Plataforma para la gestión de trabajos creativos y comunicación cliente–administrador.
-
-- ⚔️ **Luz Errante**  
-  Juego de plataformas 2D con estética oscura y control por gestos.
-
-- 🏠 **Domatia**  
-  CMS inmobiliario profesional en Laravel con soporte multilingüe y backoffice avanzado.
-
-- 🌱 **EcoTracker**  
-  App Android de gamificación ecológica con seguimiento de acciones sostenibles.
-
-- ⏱️ **TickTrack**  
-  Sistema de control horario, descansos y vacaciones.
-
-- 🏖️ **BlueWaveBooking**  
-  Plataforma de reservas online para alquiler de hamacas.
-
-- 😺 **Emojournal**  
-  App móvil para registrar el estado de ánimo con visualización de datos.
+- ⚔️ **[Luz Errante](https://github.com/Trollkopf/Luz-Errante)**  
+  2D platformer game with dark aesthetics and gesture-based controls, focused on gameplay mechanics and performance.
 
 ---
 
-## 🔗 Contacto
+## 🤝 Collaboration & Opportunities
+
+I’m interested in:
+- Freelance or long-term collaborations  
+- Product-oriented teams  
+- B2B platforms and internal tools  
+- Projects where **code quality and maintainability matter**
+
+---
+
+## 🌍 Languages
+![🇪🇸 Español](https://img.shields.io/badge/Espa%C3%B1ol-red)
+![🇬🇧 English](https://img.shields.io/badge/English-blue)
+![🇩🇪 Deutsch](https://img.shields.io/badge/Deutsch-black)
+
+---
+
+## 🔗 Contact
 
 <p align="center">
   <a href="https://maxserratosa.es">
-    <img src="https://img.shields.io/badge/Web-maxserratosa.es-green?style=for-the-badge&logo=firefox-browser" />
+    <img src="https://img.shields.io/badge/Website-maxserratosa.es-green?style=for-the-badge&logo=firefox-browser" />
   </a>
   <a href="mailto:max.serratosa@gmail.com">
     <img src="https://img.shields.io/badge/Email-max.serratosa@gmail.com-red?style=for-the-badge&logo=gmail" />
