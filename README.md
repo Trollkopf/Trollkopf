@@ -1,10 +1,6 @@
 # 👋 Hola, soy Max Serratosa
 
-<p align="center">
-![GitHub followers](https://img.shields.io/github/followers/Trollkopf?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Trollkopf?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=Trollkopf)
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Trollkopf?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Trollkopf?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=Trollkopf)
 
 ### 🌍 Languages you can communicate with me
 
