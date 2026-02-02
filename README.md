@@ -1,7 +1,12 @@
 # 👋 Hola, soy Max Serratosa
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trollkopf&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trollkopf&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Trollkopf&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trollkopf&theme=github-dark" />
 </p>
 
 ### 🌍 Languages you can communicate with me
