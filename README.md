@@ -1,7 +1,7 @@
 # 👋 Hola, soy Max Serratosa
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trollkopf&column=4&row=2&margin-w=15&margin-h=15" alt="trophy">
+<img src="https://github-readme-stats.vercel.app/api?username=Trollkopf&show_icons=true&theme=dracula" />
 </p>
 
 ### 🌍 Languages you can communicate with me
